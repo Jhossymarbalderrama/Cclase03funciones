@@ -1,6 +1,6 @@
 # Jhossymar balderrama
 # Tutorial de Github 
-Programación en C ,Clase 03  funciones
+Programación en C ,Clase 03  funciones y Github.
 
   -1 crear una carpeta e ingresar.
   
